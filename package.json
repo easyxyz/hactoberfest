@@ -1,7 +1,6 @@
 {
   "name": "aboutpage",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "dependencies": {
     "particles.js": "^2.0.0"
@@ -10,6 +9,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "anand",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creatorpiyush/hactoberfest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/creatorpiyush/hactoberfest/issues"
+  },
+  "homepage": "https://github.com/creatorpiyush/hactoberfest#readme",
+  "description": ""
 }
