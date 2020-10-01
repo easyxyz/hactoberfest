@@ -63,7 +63,7 @@ const particlesJSON = {
       attract: {
         enable: false,
         rotateX: 500,
-        rotateY: 1000,
+        rotateY: 900,
       },
     },
   },
