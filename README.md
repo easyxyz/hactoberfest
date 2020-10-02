@@ -1,1 +1,1 @@
-# ParticalJS documentation
+# ParticleJS documentation
